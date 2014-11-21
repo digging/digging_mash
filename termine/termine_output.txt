@@ -1,0 +1,1215 @@
+* ID: 2001689
+* TYPE: title
+1.000000 eye library
+
+* ID: 2001689
+* TYPE: description
+-0.000000 digital image
+-0.000000 image library
+1.584962 digital image library
+1.000000 eye condition
+1.000000 fluorescein angiogram
+
+-0.000000 diabetic retinopathy
+-0.000000 retinopathy screening
+1.584962 diabetic retinopathy screening
+1.000000 treatment procedure
+1.000000 external eye
+1.000000 anterior eye
+1.000000 ocular motility
+
+-0.000000 dr peter
+-0.000000 peter scanlon
+1.584962 dr peter scanlon
+1.000000 associate specialist
+-0.000000 cheltenham general
+-0.000000 general hospital
+1.584962 cheltenham general hospital
+
+
+* ID: 2003610-145640
+* TYPE: title
+-0.000000 california earthquake
+-0.000000 earthquake information
+1.584962 california earthquake information
+
+* ID: 2003610-145640
+* TYPE: description
+1.000000 california seismicity
+-0.000000 united states
+-0.000000 states geological
+0.584962 united states geological
+-0.000000 geological survey
+0.584962 states geological survey
+2.000000 united states geological survey
+
+-0.000000 seismic hazard
+-0.000000 hazard map
+1.584962 seismic hazard map
+1.000000 earthquake history
+-0.000000 san francisco
+-0.000000 francisco event
+1.584962 san francisco event
+1.000000 usgs information
+1.000000 fact sheet
+1.000000 other resource
+1.000000 californian seismicity
+
+1.000000 additional section
+1.000000 fact sheet
+
+
+* ID: 2006817-231834
+* TYPE: title
+1.000000 dairy science
+1.000000 food technology
+
+* ID: 2006817-231834
+* TYPE: description
+-0.000000 dr michael
+-0.000000 michael mullan
+1.584962 dr michael mullan
+-0.000000 northern ireland
+-0.000000 ireland college
+1.584962 northern ireland college
+1.000000 rural enterprise
+1.000000 industrial use
+-0.000000 lactic acid
+-0.000000 acid bacteria
+1.584962 lactic acid bacteria
+1.000000 antimicrobial system
+
+1.000000 food technology
+1.000000 atmosphere packaging
+
+1.000000 dairy science
+1.000000 discussion area
+1.000000 extensive link
+1.000000 literature citation
+
+
+* ID: 200682-16154
+* TYPE: title
+
+* ID: 200682-16154
+* TYPE: description
+1.000000 forestry sector
+1.000000 online network
+
+1.000000 large amount
+1.000000 research documentation
+1.000000 policy paper
+1.000000 tropical forestry
+1.000000 environmental sustainability
+1.000000 community issue
+
+
+* ID: 20070206-121411
+* TYPE: title
+-0.000000 avian influenza
+-0.000000 influenza control
+1.584962 avian influenza control
+1.000000 global programme
+
+* ID: 20070206-121411
+* TYPE: description
+1.000000 24-page document
+-0.000000 fao emergency
+-0.000000 emergency prevention
+0.584962 fao emergency prevention
+-0.000000 prevention system
+0.584962 emergency prevention system
+2.000000 fao emergency prevention system
+1.000000 transboundary animal
+-0.000000 plant pest
+-0.000000 pest diseases
+1.584962 plant pest diseases
+-0.000000 avian influenza
+1.584962 pathogenic avian influenza
+
+1.000000 regional coordination
+1.000000 global programme
+
+
+
+* ID: 20070918-0014
+* TYPE: title
+1.000000 black hole
+1.000000 time travel
+-0.000000 royal society
+-0.000000 society lecture
+1.584962 royal society lecture
+
+* ID: 20070918-0014
+* TYPE: description
+-0.000000 royal society
+-0.000000 society lectures
+0.584962 royal society lectures
+-0.000000 lectures series
+0.584962 society lectures series
+2.000000 royal society lectures series
+-0.000000 vega science
+-0.000000 science trust
+1.584962 vega science trust
+1.000000 paul davies
+1.000000 discuss wormhole
+1.000000 time travel
+
+
+
+* ID: 20090220-10190573
+* TYPE: title
+-0.000000 european dress
+1.584962 modern european dress
+-0.000000 textile research
+-0.000000 research network
+1.584962 textile research network
+
+* ID: 20090220-10190573
+* TYPE: description
+-0.000000 ahrc-funded research
+-0.000000 research network
+1.584962 ahrc-funded research network
+1.000000 bring researcher
+1.000000 common understanding
+-0.000000 modern dress
+1.584962 early modern dress
+
+1.000000 recent year
+1.000000 social class
+1.000000 clothe people
+1.000000 fashion artefact
+1.000000 s function
+
+1.000000 wide variety
+-0.000000 email discussion
+-0.000000 discussion list
+1.584962 email discussion list
+1.000000 final conference
+
+1.000000 pool datum
+1.000000 web dissemination
+1.000000 discussion list
+
+
+* ID: 20100316-16195099
+* TYPE: title
+-0.000000 arthritis research
+-0.000000 research uk
+1.584962 arthritis research uk
+
+* ID: 20100316-16195099
+* TYPE: description
+1.000000 arthritis research
+-0.000000 research uk
+1.584962 arthritis research uk
+-0.000000 research campaign
+1.584962 arthritis research campaign
+
+-0.000000 charity fund
+-0.000000 high quality
+0.584962 fund high quality
+1.000000 charity fund high quality
+-0.000000 quality research
+0.584962 high quality research
+1.000000 fund high quality research
+2.321928 charity fund high quality research
+1.000000 health professional
+1.000000 good treatment
+
+-0.000000 musculoskeletal condition
+1.584962 various musculoskeletal condition
+1.000000 different type
+1.000000 health professional
+1.000000 medical student
+1.000000 hospital doctor
+1.000000 late news
+1.000000 'arthritis today
+1.000000 other publication
+
+
+* ID: 20290502
+* TYPE: title
+
+* ID: 20290502
+* TYPE: description
+-0.000000 medical news
+1.584962 late medical news
+1.000000 lung cancer
+-0.000000 medical journal
+1.584962 current medical journal
+
+1.000000 daily basis
+
+1.000000 background information
+1.000000 related organisation
+
+
+-0.000000 medical resource
+1.584962 one-stop medical resource
+
+
+* ID: 2200/20071019181529402T
+* TYPE: title
+1.000000 digital library
+-0.000000 earth system
+-0.000000 system education
+1.584962 earth system education
+1.000000 matter newsletter
+
+* ID: 2200/20071019181529402T
+* TYPE: description
+-0.000000 dlese matters
+-0.000000 matters newsletter
+0.584962 dlese matters newsletter
+-0.000000 newsletter collection
+0.584962 matters newsletter collection
+2.000000 dlese matters newsletter collection
+
+-0.000000 professional development
+-0.000000 development opportunity
+1.584962 professional development opportunity
+1.000000 outreach activity
+1.000000 dlese community
+1.000000 relevant issue
+1.000000 strategic decision
+1.000000 collaborative project
+-0.000000 technical library
+-0.000000 library service
+1.584962 technical library service
+
+1.000000 dlese matters
+
+
+* ID: 2200/20080221142135859T
+* TYPE: title
+-0.000000 gold rush
+-0.000000 rush history
+1.584962 gold rush history
+
+* ID: 2200/20080221142135859T
+* TYPE: description
+1.000000 comprehensive overview
+2.000000 gold rush
+-0.000000 historical information
+1.584962 specific historical information
+1.000000 historical society
+
+
+* ID: 2200/20080621185918867T
+* TYPE: title
+
+* ID: 2200/20080621185918867T
+* TYPE: description
+1.000000 web site
+1.000000 student age
+
+
+* ID: 2200/20110503233040660T
+* TYPE: title
+1.000000 complete work
+-0.000000 charles darwin
+-0.000000 darwin online
+1.584962 charles darwin online
+
+* ID: 2200/20110503233040660T
+* TYPE: description
+1.000000 complete publication
+1.000000 handwritten manuscript
+
+-0.000000 searchable text
+-0.000000 text page
+1.584962 searchable text page
+1.000000 darwin bibliography
+1.000000 manuscript catalogue
+
+1.000000 ancillary text
+1.000000 reference work
+1.000000 hms 'beagle
+1.000000 related work
+
+-0.000000 free audio
+-0.000000 audio mp3
+0.584962 free audio mp3
+-0.000000 mp3 version
+0.584962 audio mp3 version
+2.000000 free audio mp3 version
+
+
+* ID: 2200/20110907104933257T
+* TYPE: title
+
+* ID: 2200/20110907104933257T
+* TYPE: description
+1.000000 large collection
+-0.000000 mathematical software
+1.584962 high-quality mathematical software
+1.000000 primary repository
+-0.000000 lapack users`
+-0.000000 users` guide
+1.584962 lapack users` guide
+
+
+* ID: 2200/20110907111003855T
+* TYPE: title
+-0.000000 interactive digital
+-0.000000 digital overhead
+1.584962 interactive digital overhead
+
+* ID: 2200/20110907111003855T
+* TYPE: description
+-0.000000 static image
+1.584962 own static image
+1.000000 chemical concept
+
+1.000000 well-done graphic
+1.000000 microscopic world
+
+
+* ID: 2200/20110919195425781T
+* TYPE: title
+
+* ID: 2200/20110919195425781T
+* TYPE: description
+1.000000 google earth
+1.000000 fictional student
+1.000000 possible cause
+-0.000000 arctic region
+1.584962 other arctic region
+
+1.000000 permafrost mean
+
+-0.000000 soil temperature
+-0.000000 temperature datum
+1.584962 soil temperature datum
+1.000000 permafrost borehole
+-0.000000 surface air
+-0.000000 air temperature
+0.584962 surface air temperature
+-0.000000 temperature dataset
+0.584962 air temperature dataset
+2.000000 surface air temperature dataset
+1.000000 chersky region
+-0.000000 50-year time
+-0.000000 time span
+1.584962 50-year time span
+
+
+* ID: 2200/20111219102012862T
+* TYPE: title
+1.000000 function grapher
+
+* ID: 2200/20111219102012862T
+* TYPE: description
+1.000000 interactive graph
+
+
+1.000000 rational function
+1.000000 slant asymptote
+
+
+* ID: 2200/20120106132517857T
+* TYPE: title
+-0.000000 common compound
+-0.000000 compound library
+1.584962 common compound library
+
+* ID: 2200/20120106132517857T
+* TYPE: description
+-0.000000 college-level chemistry
+1.000000 chemistry course
+1.584962 college-level chemistry course
+-0.000000 introductory chemistry
+1.584962 introductory chemistry course
+1.000000 everyday life
+
+1.000000 chemical synonym
+1.000000 molecular weight
+1.000000 equilibrium constant
+1.000000 thermodynamic property
+1.000000 common use
+1.000000 common unit
+
+1.000000 structure information
+-0.000000 structural formula
+1.584962 flat structural formula
+1.000000 stick model
+-0.000000 potential map
+0.584962 density/electric potential map
+2.000000 electron density/electric potential map
+1.000000 bond length
+1.000000 bond angle
+1.000000 torsion angle
+
+1.000000 course website
+1.000000 frequently-asked-question feature
+-0.000000 other resource
+1.584962 many other resource
+
+
+* ID: 2200/20120106152506874T
+* TYPE: title
+-0.000000 internet mathematics
+-0.000000 mathematics library
+1.584962 internet mathematics library
+
+* ID: 2200/20120106152506874T
+* TYPE: description
+-0.000000 internet mathematics
+-0.000000 mathematics library
+1.584962 internet mathematics library
+-0.000000 mathematics education
+-0.000000 education web
+0.584962 mathematics education web
+-0.000000 web site
+0.584962 education web site
+2.000000 mathematics education web site
+1.000000 hierarchical category
+
+1.000000 subscription fee-for-use
+1.000000 commercial site
+
+
+* ID: 2200/20120110185008157T
+* TYPE: title
+-0.000000 large hadron
+-0.000000 hadron collider
+1.584962 large hadron collider
+-0.000000 particle collision
+-0.000000 collision animation
+1.584962 particle collision animation
+
+* ID: 2200/20120110185008157T
+* TYPE: description
+-0.000000 large hadron
+-0.000000 hadron collider
+1.584962 large hadron collider
+1.000000 accelerator system
+-0.000000 a toroidal
+-0.000000 toroidal lhc
+0.584962 a toroidal lhc
+-0.000000 lhc apparatus
+0.584962 toroidal lhc apparatus
+2.000000 a toroidal lhc apparatus
+
+-0.000000 program macromedia
+-0.000000 macromedia flash
+0.584962 program macromedia flash
+-0.000000 flash player
+0.584962 macromedia flash player
+2.000000 program macromedia flash player
+
+
+* ID: 2200/20120110191513172T
+* TYPE: title
+
+* ID: 2200/20120110191513172T
+* TYPE: description
+-0.000000 indian ocean
+-0.000000 ocean tsunami
+1.584962 indian ocean tsunami
+
+1.000000 great disaster
+1.000000 human history
+
+1.000000 much datum
+
+1.000000 rapid-response program
+
+1.000000 web site
+1.000000 research effort
+1.000000 sri lanka
+1.000000 video interview
+1.000000 day account
+
+
+* ID: 2200/20120118121016514T
+* TYPE: title
+-0.000000 cornell engineering
+-0.000000 engineering magazine
+1.584962 cornell engineering magazine
+
+* ID: 2200/20120118121016514T
+* TYPE: description
+1.000000 online magazine
+-0.000000 cornell university
+-0.000000 university college
+1.584962 cornell university college
+1.000000 news item
+1.000000 personal profile
+1.000000 feature article
+1.000000 engineering topic
+1.000000 cornell student
+
+1.000000 home page
+1.000000 current issue
+1.000000 previous issue
+
+
+* ID: 2200/20120604185510606T
+* TYPE: title
+-0.000000 developing internet
+-0.000000 internet search
+0.584962 developing internet search
+-0.000000 search skill
+0.584962 internet search skill
+2.000000 developing internet search skill
+
+* ID: 2200/20120604185510606T
+* TYPE: description
+1.000000 do internet
+1.000000 questionable information
+1.000000 reliable information
+1.000000 effective search
+1.000000 web search
+1.000000 open-ended question
+-0.000000 information online
+1.584962 reliable information online
+
+
+* ID: artifact7399
+* TYPE: title
+
+* ID: artifact7399
+* TYPE: description
+1.000000 open-access training
+-0.000000 digital imaging
+-0.000000 imaging facility
+1.584962 digital imaging facility
+1.000000 local people
+1.000000 community group
+1.000000 east london
+
+1.000000 local event
+1.000000 social awareness
+1.000000 medium technology
+
+1.000000 current project
+
+1.000000 past project
+1.000000 bow wireless
+-0.000000 mobile technology
+-0.000000 technology workshop
+1.584962 mobile technology workshop
+
+1.000000 main website
+
+
+* ID: humbul15954
+* TYPE: title
+-0.000000 la france
+-0.000000 france en
+0.584962 la france en
+-0.000000 en am
+0.584962 france en am
+2.000000 la france en am
+
+* ID: humbul15954
+* TYPE: description
+-0.000000 la france
+-0.000000 france en
+0.584962 la france en
+-0.000000 en am
+0.584962 france en am
+2.000000 la france en am
+
+1.000000 french community
+1.000000 north america
+1.000000 nineteenth century
+
+1.000000 interpretive text
+
+1.000000 franco-indian alliance
+1.000000 imperial struggle
+1.000000 north america
+
+1.000000 useful map
+
+
+1.000000 great use
+1.000000 french history
+1.000000 study aid
+
+1.000000 great use
+
+
+* ID: humbul3756
+* TYPE: title
+1.000000 melbourne classic
+-0.000000 virtual museum
+1.584962 archaeology virtual museum
+
+* ID: humbul3756
+* TYPE: description
+-0.000000 archaeology virtual
+-0.000000 virtual museum
+0.584962 archaeology virtual museum
+-0.000000 museum project
+0.584962 virtual museum project
+2.000000 archaeology virtual museum project
+1.000000 archaeology wing
+-0.000000 ian potter
+-0.000000 potter museum
+1.584962 ian potter museum
+
+-0.000000 vast online
+-0.000000 online resource
+1.584962 vast online resource
+-0.000000 middle eastern
+-0.000000 eastern manuscript
+1.584962 middle eastern manuscript
+
+
+
+1.000000 full description
+1.000000 individual piece
+
+-0.000000 relevant datum
+1.584962 other relevant datum
+
+1.000000 self-directed tour
+-0.000000 easy access
+1.584962 user easy access
+1.000000 full list
+1.000000 individual collection
+
+1.000000 extensive documentation
+-0.000000 virtual museum
+-0.000000 museum project
+1.584962 virtual museum project
+
+
+* ID: lib3corlejr.991300514
+* TYPE: title
+1.000000 australian centre
+1.000000 field robotics
+
+* ID: lib3corlejr.991300514
+* TYPE: title
+
+* ID: lib3corlejr.991300514
+* TYPE: description
+1.000000 mechatronic engineering
+-0.000000 field robotic
+-0.000000 robotic principle
+1.584962 field robotic principle
+
+1.000000 field robotic
+1.000000 autonomous machine
+1.000000 hostile environment
+1.000000 cargo handling
+
+
+
+2.000000 pdf format
+-0.000000 dozen phd
+-0.000000 phd thesis
+1.584962 dozen phd thesis
+
+1.000000 annual report
+
+1.000000 related interest
+
+
+* ID: res:ipl-10182
+* TYPE: title
+-0.000000 internet theatre
+-0.000000 theatre database
+1.584962 internet theatre database
+
+* ID: res:ipl-10182
+* TYPE: description
+1.000000 searchable archive
+1.000000 theatre past
+
+1.000000 broadway show
+1.000000 west end
+
+
+
+* ID: res:ipl-12377
+* TYPE: title
+-0.000000 social psychology
+-0.000000 psychology network
+1.584962 social psychology network
+
+* ID: res:ipl-12377
+* TYPE: description
+1.000000 gateway site
+1.000000 social psychology
+
+-0.000000 social psychology
+0.584962 specific social psychology
+-0.000000 psychology topic
+0.584962 social psychology topic
+2.000000 specific social psychology topic
+1.000000 graduate program
+1.000000 professional journal
+1.000000 teaching resource
+
+
+* ID: res:ipl-12899
+* TYPE: title
+1.000000 fibromyalgia network
+
+* ID: res:ipl-12899
+* TYPE: description
+1.000000 educational material
+1.000000 fibromyalgia syndrome
+-0.000000 chronic fatigue
+-0.000000 fatigue syndrome
+1.584962 chronic fatigue syndrome
+
+
+
+* ID: res:ipl-13115
+* TYPE: title
+
+* ID: res:ipl-13115
+* TYPE: description
+-0.000000 collaborative effort
+1.584962 non-profit collaborative effort
+1.000000 many museum
+1.000000 visual image
+
+1.000000 art term
+
+
+* ID: res:ipl-13191
+* TYPE: title
+
+* ID: res:ipl-13191
+* TYPE: description
+-0.000000 edge web
+-0.000000 web site
+1.584962 edge web site
+
+1.000000 online destination
+1.000000 manufacturing professional
+1.000000 complex problem
+
+1.000000 engineering resource
+1.000000 job posting
+
+
+* ID: res:ipl-29474
+* TYPE: title
+
+* ID: res:ipl-29474
+* TYPE: description
+1.000000 downloadable program
+1.000000 human skull
+
+-0.000000 quicktime vr
+-0.000000 vr object
+0.584962 quicktime vr object
+-0.000000 object movie
+0.584962 vr object movie
+2.000000 quicktime vr object movie
+1.000000 interactive textbook
+
+
+
+* ID: res:ipl-48843
+* TYPE: title
+1.000000 underwater archaeology
+
+* ID: res:ipl-48843
+* TYPE: description
+1.000000 underwater archaeology
+1.000000 specific site
+
+
+* ID: res:ipl-49233
+* TYPE: title
+
+* ID: res:ipl-49233
+* TYPE: description
+1.000000 comprehensive account
+
+1.000000 key figure
+1.000000 computer game
+
+-0.000000 historic paper
+-0.000000 available online
+0.584962 paper available online
+2.000000 historic paper available online
+1.000000 full text
+
+
+* ID: res:ipl-50559
+* TYPE: title
+
+* ID: res:ipl-50559
+* TYPE: description
+1.000000 many masterpiece
+
+1.000000 famous royalty
+
+1.000000 interactive map
+
+
+* ID: res:ipl-5441
+* TYPE: title
+1.000000 atmospheric science
+
+* ID: res:ipl-5441
+* TYPE: description
+1.000000 joint project
+1.000000 cambridge university
+
+
+1.000000 chemistry department
+1.000000 applied mathematics
+1.000000 theoretical physics
+
+-0.000000 atmospheric study
+1.584962 scientific atmospheric study
+1.000000 weather info
+
+1.000000 software product
+-0.000000 atmospheric chemistry
+-0.000000 chemistry modelling
+0.584962 atmospheric chemistry modelling
+-0.000000 modelling support
+0.584962 chemistry modelling support
+1.000000 atmospheric chemistry modelling support
+-0.000000 support unit
+0.584962 modelling support unit
+1.000000 chemistry modelling support unit
+2.321928 atmospheric chemistry modelling support unit
+1.000000 ftp site
+
+
+
+* ID: res:ipl-6773
+* TYPE: title
+1.000000 eric weisstein
+1.000000 treasure trove
+
+* ID: res:ipl-6773
+* TYPE: description
+1.000000 music encyclopedia
+1.000000 music topic
+
+1.000000 contain article
+1.000000 music theory
+1.000000 further reading
+
+
+* ID: res:ipl-74835
+* TYPE: title
+-0.000000 korea national
+-0.000000 national park
+1.584962 korea national park
+
+* ID: res:ipl-74835
+* TYPE: description
+1.000000 official site
+1.000000 national park
+1.584962 korea national park
+1.000000 visitor information
+1.000000 photo gallery
+
+
+* ID: res:ipl-78956
+* TYPE: title
+-0.000000 iowa electronic
+-0.000000 electronic market
+1.584962 iowa electronic market
+
+* ID: res:ipl-78956
+* TYPE: description
+-0.000000 iowa electronic
+-0.000000 electronic market
+1.584962 iowa electronic market
+-0.000000 online prediction
+-0.000000 prediction site
+1.584962 online prediction site
+-0.000000 iowa henry
+-0.000000 henry b
+1.584962 iowa henry b
+
+1.000000 tippie college
+1.000000 business faculty
+1.000000 research project
+
+1.000000 good predictor
+1.000000 presidential election
+-0.000000 public opinion
+-0.000000 opinion poll
+1.584962 public opinion poll
+
+-0.000000 social event
+1.584962 other social event
+-0.000000 federal reserve
+-0.000000 reserve monetary
+0.584962 federal reserve monetary
+-0.000000 monetary policy
+0.584962 reserve monetary policy
+2.000000 federal reserve monetary policy
+
+
+* ID: res:ipl-79470
+* TYPE: title
+1.000000 distance learning
+1.000000 online degree
+
+* ID: res:ipl-79470
+* TYPE: description
+1.000000 new career
+-0.000000 distance education
+-0.000000 education division
+1.584962 distance education division
+
+
+* ID: res:ipl-8188
+* TYPE: title
+
+
+* ID: res:ipl-8188
+* TYPE: description
+-0.000000 definitive web
+-0.000000 web site
+1.584962 definitive web site
+
+1.000000 other information
+
+
+* ID: res:ipl-85427
+* TYPE: title
+-0.000000 satellite sentinel
+-0.000000 sentinel project
+1.584962 satellite sentinel project
+
+* ID: res:ipl-85427
+* TYPE: description
+-0.000000 african nation
+1.584962 war-torn african nation
+1.000000 southern border
+-0.000000 actor-activist george
+-0.000000 george clooney
+1.584962 actor-activist george clooney
+-0.000000 human right
+0.584962 rampant human right
+-0.000000 right violation
+0.584962 human right violation
+2.000000 rampant human right violation
+
+1.000000 activist group
+1.000000 enough project
+1.000000 satellite sentinel
+1.000000 end result
+1.000000 sudanese border
+1.000000 real time
+-0.000000 google map
+-0.000000 map maker
+0.584962 google map maker
+-0.000000 maker satellite
+0.584962 map maker satellite
+1.000000 google map maker satellite
+-0.000000 satellite technology
+0.584962 maker satellite technology
+1.000000 map maker satellite technology
+2.321928 google map maker satellite technology
+
+1.000000 commercial satellite
+1.000000 southern sudan
+1.000000 possible threat
+1.000000 displaced people
+1.000000 other evidence
+1.000000 mass violence
+
+1.000000 map activity
+1.000000 press release
+1.000000 blog entry
+-0.000000 sudanese peace
+-0.000000 peace effort
+1.584962 sudanese peace effort
+
+
+* ID: res:ipl-86702
+* TYPE: title
+-0.000000 may main
+-0.000000 main light
+1.584962 may main light
+1.000000 photographic journey
+
+* ID: res:ipl-86702
+* TYPE: description
+1.000000 southeast coast
+
+1.000000 main light
+1.000000 range light
+-0.000000 may low
+-0.000000 low light
+1.584962 may low light
+
+-0.000000 original light
+-0.000000 light tower
+1.584962 original light tower
+1.000000 main light
+
+
+* ID: sosig1007475684-20515
+* TYPE: title
+1.000000 war project
+
+* ID: sosig1007475684-20515
+* TYPE: description
+1.000000 war project
+-0.000000 non profit
+0.584962 private non profit
+-0.000000 profit organisation
+0.584962 non profit organisation
+2.000000 private non profit organisation
+
+1.000000 general public
+-0.000000 humanitarian law
+1.584962 international humanitarian law
+1.000000 geneva convention
+
+1.000000 background information
+
+-0.000000 public should
+-0.000000 should know
+1.584962 public should know
+
+1.000000 gulf war
+1.000000 humanitarian intervention
+
+
+
+* ID: sosig1028557415-27547
+* TYPE: title
+1.000000 fiscal study
+
+* ID: sosig1028557415-27547
+* TYPE: description
+1.000000 fiscal studies
+1.000000 research institute
+1.000000 economic analysis
+1.000000 political party
+1.000000 other interest
+
+-0.000000 uk tax
+-0.000000 tax system
+1.584962 uk tax system
+1.000000 budget analysis
+1.000000 econometric method
+1.000000 public spending
+
+-0.000000 ifs host
+-0.000000 various research
+0.584962 host various research
+1.000000 ifs host various research
+-0.000000 research centre
+0.584962 various research centre
+1.000000 host various research centre
+2.321928 ifs host various research centre
+1.000000 esrc centre
+1.000000 microeconomic analysis
+1.000000 fiscal policy
+1.000000 microdata method
+1.000000 ifs conference
+1.000000 ifs research
+1.000000 online publication
+1.000000 ifs vacancy
+1.000000 other information
+
+1.000000 economic datum
+1.000000 annual review
+-0.000000 national budget
+1.584962 uk national budget
+1.000000 pre-budget report
+1.000000 green budget
+1.000000 environmental issue
+
+1.000000 research topic
+1.000000 publication type
+1.000000 email update
+
+
+* ID: sosig838980151-20539
+* TYPE: title
+-0.000000 research methods
+-0.000000 methods knowledge
+0.584962 research methods knowledge
+-0.000000 knowledge base
+0.584962 methods knowledge base
+2.000000 research methods knowledge base
+
+* ID: sosig838980151-20539
+* TYPE: description
+-0.000000 research methods
+-0.000000 methods knowledge
+0.584962 research methods knowledge
+-0.000000 knowledge base
+0.584962 methods knowledge base
+2.000000 research methods knowledge base
+-0.000000 free online
+-0.000000 online textbook
+1.584962 free online textbook
+1.000000 introductory course
+-0.000000 social research
+-0.000000 research method
+1.584962 social research method
+
+1.000000 knowledge base
+1.000000 william m
+
+
+1.000000 policy analysis
+1.000000 cornell university
+
+-0.000000 whole research
+-0.000000 research process
+1.584962 whole research process
+1.000000 practical topic
+
+1.000000 research question
+1.000000 research design
+1.000000 data analysis
+
+-0.000000 research methods
+-0.000000 methods knowledge
+0.584962 research methods knowledge
+-0.000000 knowledge base
+0.584962 methods knowledge base
+2.000000 research methods knowledge base
+
+
+* ID: sosig927112111-9391
+* TYPE: title
+1.000000 education alliance
+1.000000 brown university
+
+* ID: sosig927112111-9391
+* TYPE: title
+
+* ID: sosig927112111-9391
+* TYPE: description
+1.000000 education alliance
+1.000000 brown university
+1.000000 regional laboratory
+
+
+
+1.000000 school improvement
+
+1.000000 regional laboratory
+1.000000 national importance
+
+1.000000 significant portion
+1.000000 educational need
+1.000000 diverse student
+1.000000 systemic approach
+
+1.000000 recent publication
+1.000000 past publication
+1.000000 different area
+-0.000000 general school
+-0.000000 school reform
+1.584962 general school reform
+
+
